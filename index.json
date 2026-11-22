@@ -1,0 +1,477 @@
+{
+ "magic": "PAR1",
+ "packs": {
+  "s": {
+   "png": "s.png",
+   "w": 512,
+   "h": 906,
+   "bytes": 1333926,
+   "clips": {
+    "abyss": [
+     49213,
+     "77bbc02d99f1e26a"
+    ],
+    "act": [
+     81127,
+     "197e90bfcd6cf75a"
+    ],
+    "aff_down": [
+     5041,
+     "1c93a3b871fc2b80"
+    ],
+    "aff_up": [
+     26792,
+     "b344b0c89283d3ff"
+    ],
+    "arrow": [
+     9839,
+     "3ff162e5c37c9cb8"
+    ],
+    "bell": [
+     33830,
+     "d75eb57c6c212694"
+    ],
+    "blood": [
+     18394,
+     "315cc260b536834a"
+    ],
+    "chain": [
+     12500,
+     "d574848af2108984"
+    ],
+    "coin": [
+     12531,
+     "c297f348f1d2524e"
+    ],
+    "coin_out": [
+     26792,
+     "17c0ba5fb2d87cd9"
+    ],
+    "dawn": [
+     50975,
+     "d04cd4389d43db43"
+    ],
+    "day": [
+     34669,
+     "7f06e6c62b639c1b"
+    ],
+    "door": [
+     14196,
+     "b100aa96dbd3a16c"
+    ],
+    "explode": [
+     24636,
+     "70ca515df332dc3c"
+    ],
+    "flame": [
+     49525,
+     "685e76f118169a5f"
+    ],
+    "glass": [
+     33061,
+     "2c30659cb5cf07eb"
+    ],
+    "heart": [
+     43275,
+     "bd6f869667415d81"
+    ],
+    "holy": [
+     40585,
+     "4b44c050e82c7536"
+    ],
+    "horse": [
+     39278,
+     "0ed61ab93d5e7468"
+    ],
+    "hunt_up": [
+     65244,
+     "4de800406d5b185a"
+    ],
+    "midnight": [
+     40585,
+     "d9326465c9f31c4b"
+    ],
+    "mp_low": [
+     33061,
+     "2e15bed1326eacce"
+    ],
+    "mp_up": [
+     41585,
+     "29fd69535909f006"
+    ],
+    "party_join": [
+     21358,
+     "371c09a164a40a66"
+    ],
+    "party_leave": [
+     40585,
+     "7c31b0afba39779f"
+    ],
+    "portal": [
+     49526,
+     "6f0af76d18737cf6"
+    ],
+    "quill": [
+     9826,
+     "78a951a984a974c3"
+    ],
+    "splash": [
+     26792,
+     "32872cfc1fdedbc5"
+    ],
+    "stage_up": [
+     45182,
+     "d152f1d534a64436"
+    ],
+    "sword": [
+     30737,
+     "ae955518a49e4d34"
+    ],
+    "syllable": [
+     104950,
+     "d850b8dca15e2c3d"
+    ],
+    "thunder": [
+     73185,
+     "45f9fd67d7b8a0ba"
+    ],
+    "ui_click": [
+     17349,
+     "81ae93c5b4b7e914"
+    ],
+    "ui_hover": [
+     9826,
+     "24e0ed522ab56cb5"
+    ],
+    "ui_off": [
+     4600,
+     "318966b7535c2075"
+    ],
+    "ui_on": [
+     4599,
+     "8d435fc907d31956"
+    ],
+    "ui_page": [
+     25697,
+     "2df90026497eba90"
+    ],
+    "ui_reveal": [
+     20105,
+     "e611884012f34d7a"
+    ],
+    "ui_tab": [
+     17780,
+     "e29c6786de85ec97"
+    ],
+    "whisper": [
+     49508,
+     "e3297399a4194b7a"
+    ],
+    "wolf": [
+     51034,
+     "d315b9cc41d16f0d"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_castle": {
+   "png": "a_castle.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 237562,
+   "clips": {
+    "castle": [
+     240744,
+     "985b3e4f16e741c0"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_cave": {
+   "png": "a_cave.png",
+   "w": 512,
+   "h": 34,
+   "bytes": 50349,
+   "clips": {
+    "cave": [
+     51095,
+     "263240c82e4a277b"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_church": {
+   "png": "a_church.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 236723,
+   "clips": {
+    "church": [
+     240744,
+     "2f8723154ad95716"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_crowd": {
+   "png": "a_crowd.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 238365,
+   "clips": {
+    "crowd": [
+     240744,
+     "817a71ede07d3ce2"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_fire": {
+   "png": "a_fire.png",
+   "w": 512,
+   "h": 118,
+   "bytes": 178885,
+   "clips": {
+    "fire": [
+     180871,
+     "27247b4250dac709"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_forest": {
+   "png": "a_forest.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 237740,
+   "clips": {
+    "forest": [
+     240744,
+     "4e81014a7ba0a700"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_rain": {
+   "png": "a_rain.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 238374,
+   "clips": {
+    "rain": [
+     240744,
+     "d2056876d586b9be"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_sea": {
+   "png": "a_sea.png",
+   "w": 512,
+   "h": 157,
+   "bytes": 238490,
+   "clips": {
+    "sea": [
+     240744,
+     "bc13dfdb3f136e35"
+    ]
+   },
+   "roundtrip": true
+  },
+  "a_storm": {
+   "png": "a_storm.png",
+   "w": 512,
+   "h": 62,
+   "bytes": 94028,
+   "clips": {
+    "storm": [
+     94981,
+     "d0b0d4c794a8d306"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_battle": {
+   "png": "b_battle.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2392046,
+   "clips": {
+    "battle": [
+     2401592,
+     "334e907881297d85"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_boss": {
+   "png": "b_boss.png",
+   "w": 512,
+   "h": 1460,
+   "bytes": 2230350,
+   "clips": {
+    "boss": [
+     2241514,
+     "b8554d659ac88eed"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_capital": {
+   "png": "b_capital.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2392708,
+   "clips": {
+    "capital": [
+     2401592,
+     "2c62ac51f61ba37a"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_castle_main": {
+   "png": "b_castle_main.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2391836,
+   "clips": {
+    "castle_main": [
+     2401592,
+     "5edd4251780470b4"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_chapel": {
+   "png": "b_chapel.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2391811,
+   "clips": {
+    "chapel": [
+     2401592,
+     "7dd777e36608eb5a"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_chase": {
+   "png": "b_chase.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2394163,
+   "clips": {
+    "chase": [
+     2401592,
+     "37855cf86196fa59"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_harbor": {
+   "png": "b_harbor.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2393423,
+   "clips": {
+    "harbor": [
+     2401592,
+     "055e73179de75145"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_mine": {
+   "png": "b_mine.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2393197,
+   "clips": {
+    "mine": [
+     2401592,
+     "fb8140e5eb8fbd65"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_night_rest": {
+   "png": "b_night_rest.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2395438,
+   "clips": {
+    "night_rest": [
+     2401592,
+     "100b84fa69834818"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_phantasm": {
+   "png": "b_phantasm.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2393704,
+   "clips": {
+    "phantasm": [
+     2401592,
+     "b9dd9e6a0407b547"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_romance": {
+   "png": "b_romance.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2393504,
+   "clips": {
+    "romance": [
+     2401592,
+     "aa22873b7d943265"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_sorrow": {
+   "png": "b_sorrow.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2392615,
+   "clips": {
+    "sorrow": [
+     2401592,
+     "6a2d2bb30a571e4e"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_town": {
+   "png": "b_town.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2395490,
+   "clips": {
+    "town": [
+     2401592,
+     "3adf06e7fb3d8653"
+    ]
+   },
+   "roundtrip": true
+  },
+  "b_wanderer": {
+   "png": "b_wanderer.png",
+   "w": 512,
+   "h": 1564,
+   "bytes": 2392094,
+   "clips": {
+    "wanderer": [
+     2401592,
+     "f0c65035133dd722"
+    ]
+   },
+   "roundtrip": true
+  }
+ }
+}
